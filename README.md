@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🎓 EduManager
 
 O EduManager é um projeto desenvolvido para praticar Programação Orientada a Objetos (POO), Java e Spring Boot. É um sistema backend com integração a banco de dados e comunicação por meio de uma API REST.
@@ -92,3 +93,7 @@ Praticar desenvolvimento backend, Programação Orientada a Objetos, integraçã
 👨‍💻 Autor
 
 Desenvolvido como projeto de estudo e prática de desenvolvimento backend.
+=======
+# edumanager
+edumanager é projeto desenvolvidor por mim, com o objetivo de praticar POO e Spring. É um sistema back end com vinculo a banco de dados,  conectado via api.
+>>>>>>> f40829f86603f658070a81cd2866f8522678f15a
